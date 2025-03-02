@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\voleybol.odevi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA71B972-C0C3-47DB-8B00-FA9A0BB13CD2}|voleybol.odevi\\voleybol.odevi.csproj|c:\\users\\v\u0130ctus\\onedrive\\masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{EA71B972-C0C3-47DB-8B00-FA9A0BB13CD2}|voleybol.odevi\\voleybol.odevi.csproj|solutionrelative:voleybol.odevi\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA71B972-C0C3-47DB-8B00-FA9A0BB13CD2}|voleybol.odevi\\voleybol.odevi.csproj|C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA71B972-C0C3-47DB-8B00-FA9A0BB13CD2}|voleybol.odevi\\voleybol.odevi.csproj|solutionrelative:voleybol.odevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA71B972-C0C3-47DB-8B00-FA9A0BB13CD2}|voleybol.odevi\\voleybol.odevi.csproj|c:\\users\\v\u0130ctus\\onedrive\\masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA71B972-C0C3-47DB-8B00-FA9A0BB13CD2}|voleybol.odevi\\voleybol.odevi.csproj|solutionrelative:voleybol.odevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA71B972-C0C3-47DB-8B00-FA9A0BB13CD2}|voleybol.odevi\\voleybol.odevi.csproj|c:\\users\\v\u0130ctus\\onedrive\\masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA71B972-C0C3-47DB-8B00-FA9A0BB13CD2}|voleybol.odevi\\voleybol.odevi.csproj|solutionrelative:voleybol.odevi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA71B972-C0C3-47DB-8B00-FA9A0BB13CD2}|voleybol.odevi\\voleybol.odevi.csproj|c:\\users\\v\u0130ctus\\onedrive\\masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA71B972-C0C3-47DB-8B00-FA9A0BB13CD2}|voleybol.odevi\\voleybol.odevi.csproj|solutionrelative:voleybol.odevi\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "voleybol.odevi\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\ClassDiagram1.cd",
+              "RelativeToolTip": "voleybol.odevi\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-12-29T09:01:16.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Oyuncu.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\Oyuncu.cs",
+              "RelativeDocumentMoniker": "voleybol.odevi\\Oyuncu.cs",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\Oyuncu.cs",
+              "RelativeToolTip": "voleybol.odevi\\Oyuncu.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADgvyoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:33:40.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\Program.cs",
+              "RelativeDocumentMoniker": "voleybol.odevi\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\Program.cs",
+              "RelativeToolTip": "voleybol.odevi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:33:16.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\Form1.cs",
+              "RelativeDocumentMoniker": "voleybol.odevi\\Form1.cs",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\Form1.cs",
+              "RelativeToolTip": "voleybol.odevi\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwD8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:31:53.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\Form1.cs",
+              "RelativeDocumentMoniker": "voleybol.odevi\\Form1.cs",
+              "ToolTip": "C:\\Users\\V\u0130CTUS\\OneDrive\\Masa\u00FCst\u00FC\\voleybol.odevi\\voleybol.odevi\\Form1.cs [Design]",
+              "RelativeToolTip": "voleybol.odevi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:44:37.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
